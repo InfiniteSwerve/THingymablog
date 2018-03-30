@@ -11,8 +11,13 @@
   border-bottom-width: 0;
 }
 
-.blog-post-preview .title, .blog-post-preview .date, .blog-post-preview .link {
-  margin: 0 auto;
+.blog-post-preview .title a {
+  text-decoration: none;
+  color: #079992;
+}
+
+.blog-post-preview .title a:hover {
+  color: #38ada9;
 }
 
 .blog-post-preview .date {
