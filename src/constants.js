@@ -1,0 +1,1 @@
+export const BLOG_TITLE = "Nickleback Fan Club";

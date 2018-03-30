@@ -5,6 +5,7 @@ import ForwardIcon from 'react-icons/lib/fa/chevron-right';
 
 import Link from '../components/Link';
 import Tags from '../components/Tags';
+import {BLOG_TITLE} from "../constants";
 
 import '../css/blog-post.css';
 
@@ -13,7 +14,7 @@ export default function Template({ data, pathContext }) {
   const { next, prev } = pathContext;
   return (
     <div className="blog-post-container">
-      <Helmet title={`Gatsby Blog - ${post.frontmatter.title}`} />
+      <Helmet title={`${BLOG_TITLE} - ${post.frontmatter.title}`} />
       <div className="blog-post">
         <h1 className="title">
           {post.frontmatter.title}
@@ -21,6 +22,8 @@ export default function Template({ data, pathContext }) {
         <h2 className="date">
           {post.frontmatter.date}
         </h2>
+
+        <hr />
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: post.html }}
