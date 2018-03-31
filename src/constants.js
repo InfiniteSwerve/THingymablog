@@ -1,1 +1,1 @@
-export const BLOG_TITLE = "Nickleback Fan Club";
+export const BLOG_TITLE = "A Collection of Moxy Firewasps";

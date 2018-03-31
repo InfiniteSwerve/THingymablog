@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: process.env.CI ? `/${name}` : `/`,
   siteMetadata: {
-    author: 'You!',
-    title: `Gatsby Default (Blog) Starter`,
+    author: 'Swerve',
+    title: `A Collection of Moxy Firewasps`,
   },
   plugins: [
     'gatsby-plugin-react-next',
