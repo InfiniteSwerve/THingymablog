@@ -86,5 +86,5 @@ Quality is composed of-
 1
 1
 
-###[^1]The Principles:
+###[^1]: The Principles:
 [Quality](/quality.html):
