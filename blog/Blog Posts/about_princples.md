@@ -1,9 +1,12 @@
 ---
 path: "/about_princples.html"
 date: "2017-07-14T03:49:16.408Z"
-title: "What are Princples?"
+title: "What are Principles?"
 tags: ["Principles"]
 ---
+
+[Here is the principles list][The Principles]
+
 
 Principles
 
