@@ -12,12 +12,6 @@ I use principles to try and average my habitual behavior towards actions which i
 
 That's pretty abstract, here's an example of a principle:  
 
-###Quality- Every ##What are Principles?'
-
-I use principles to try and average my habitual behavior towards actions which increase my long-term goal fulfillment.
-
-That's pretty abstract, here's an example of a principle:  
-
 ###Quality- Every movement of my mind will be precise, exacting and deliberate.
 
 Quality is about control and the groundwork for my behavior in general. It says that in a given situation I should be entirely in control of and have access to awareness of the movements that my mind is making.
