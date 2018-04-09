@@ -10,7 +10,7 @@ tags: ["Principles"]
 
 I use principles to try and average my habitual behavior towards actions which increase my long-term goal fulfillment.
 
-That's pretty abstract, here's an example of a principle:  
+That's pretty abstract, here's an example of a principle::  
 
 ####Quality- Every movement of my mind will be precise, exacting and deliberate.
 
