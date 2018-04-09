@@ -5,10 +5,10 @@ title: "What are Principles?"
 tags: ["Principles"]
 ---
 
-[Here is the principles list][The Principles]
 
 
-Principles
+
+Principles[^1]
 
 I use principles to try and average my habitual behavior towards actions which increase my long-term goal fulfillment.
 
@@ -40,39 +40,39 @@ Quality is composed of-
 
 1
 1
+1
+1
+1
+1
+1
+1
 
+1
+1
+1
 
+1
+1
+1
 
+1
+1
+1
 
+1
+1
+1
 
+1
+1
+1
+1
 
+1
+1
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1
 
 
 
@@ -86,5 +86,5 @@ Quality is composed of-
 1
 1
 
-###The Principles:
+###[^1]The Principles:
 [Quality](/quality.html):
