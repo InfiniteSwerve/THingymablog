@@ -29,7 +29,62 @@ Quality is composed of-
 - Default to Precision over Speed
 - Motion Should be Transparent
 - 
+1
+1
+1
+1
+1
 
+1
+1
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
 
 ###The Principles:
 [Quality](/quality.html):
