@@ -1,4 +1,9 @@
-# Guitar
+---
+path: "/guitar.html"
+date: "2017-07-14T03:49:16.408Z"
+title: "Guitar"
+tags: ["first"]
+---
 
 Music is a language
 
