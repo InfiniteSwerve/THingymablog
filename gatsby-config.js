@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: process.env.CI ? `/${name}` : `/`,
   siteMetadata: {
     author: '',
-    title: `A Moxic Swathe of Flevy Firewasps`,
+    title: `A Discerning Swathe of Flevy Moxy`,
   },
   plugins: [
     'gatsby-plugin-react-next',
