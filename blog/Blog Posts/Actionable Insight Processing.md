@@ -1,7 +1,6 @@
-
 ---
 path: "/insight.html"
-date: "2018-06-14T03:49:16.408Z"
+date: "2017-07-13T03:49:16.408Z"
 title: "Actionable Insight Processing"
 tags: ["first"]
 ---
